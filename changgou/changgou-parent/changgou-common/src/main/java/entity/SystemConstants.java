@@ -1,7 +1,7 @@
 package entity;
 
 /**
- * 描述
+ * 概述
  *
  * @author www.itheima.com
  * @version 1.0
